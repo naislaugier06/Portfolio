@@ -8,3 +8,26 @@ h2, h1, h3, p, a {
     font-family: "Raleway", sans-serif;
     color:rgb(0, 82, 198)
 }
+.card{
+    background-color: rgb(255, 191, 0);
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px
+}
+.Expériences {
+    background-color: rgb(255, 191, 0);
+    padding: 5px;
+    margin: 5px;
+    text-align: left
+
+}
+
+#avatar{
+    background-color: rgb(255, 255, 255);
+    border-radius: 300px;
+    width: 150px;
+    height: 200px;
+    border: 6px solid white
+
+}
