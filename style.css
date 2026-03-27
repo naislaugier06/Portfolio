@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(218, 240, 255);
+}
+h1 {
+    font-family: "Raleway", sans-serif;
+}
+h2, h1, h3, p, a {
+    font-family: "Raleway", sans-serif;
+    color:rgb(0, 82, 198)
+}
